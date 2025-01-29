@@ -19,7 +19,7 @@ A **C++-based Aircraft Parking System** developed as a console application. This
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/Aircraft-Parking-System.git
+   git clone https://github.com/nethmiidesilva/aircraft-parking-system.git
    cd aircraft-parking-system
    ```
 2. **Compile the program** (Ensure you have a C++ compiler installed, e.g., g++)
