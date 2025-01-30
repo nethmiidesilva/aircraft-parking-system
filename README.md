@@ -4,11 +4,11 @@ A **C++-based Aircraft Parking System** developed as a console application. This
 
 ## Key Features
 
-- ** Dynamic Data Management**: Utilizes a **doubly linked list** for efficient aircraft entry organization, ensuring fast access and seamless updates.
-- ** Comprehensive Information Display**: Tracks airline names, registration numbers, entry/departure times, and dates.
-- ** Precision Input Validation**: Ensures accurate time and date formatting, minimizing errors and maintaining data consistency.
-- ** Real-time Parking Status**: Provides live updates on parking availability for optimized resource allocation.
-- ** Flexible Modification & Deletion**: Allows seamless updates to accommodate schedule changes.
+- Dynamic Data Management**: Utilizes a **doubly linked list** for efficient aircraft entry organization, ensuring fast access and seamless updates.
+- Comprehensive Information Display**: Tracks airline names, registration numbers, entry/departure times, and dates.
+- Precision Input Validation**: Ensures accurate time and date formatting, minimizing errors and maintaining data consistency.
+- Real-time Parking Status**: Provides live updates on parking availability for optimized resource allocation.
+- Flexible Modification & Deletion**: Allows seamless updates to accommodate schedule changes.
 
 ## Technologies Used
 
